@@ -22,7 +22,6 @@
 
 - 🏫 I'm a `Junior` at Faculty of *Taiba Higher Institute*.
 - 🤖 I’m currently learning **Digital marketing specialist**.
-- 💻 I'm a competitive programmer.
 - 🤓 Always learning new things.
 - ❤ Contributing to Open Source.
 - 🤔 I’m currently open for : `An intern`.
